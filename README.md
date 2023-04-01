@@ -1,7 +1,7 @@
 # assignment_1
 
 
-## Curl for POST/PUT
+## Sample Curl for POST/PUT
 >curl --location 'localhost:8081/api/claims' \
 --header 'Content-Type: application/json' \
 --data '{
@@ -10,5 +10,5 @@
 "tech": "JAVA4"
 }'
 
-## Get wali
+## Sample Get Command
 >localhost:8081/api/claims 
